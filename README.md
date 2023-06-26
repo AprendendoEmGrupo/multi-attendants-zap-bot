@@ -26,7 +26,7 @@ The project is part the multi attendance zap project where is responsable send m
 
 - Branch **master** code go to production
 - Branch **staging** code go to staging. Warn: in future can have staging environment to validate if feature is ok before send production.
-- Branch **Develop** all new feature created based this branch.
+- Branch **develop** all new feature created based this branch.
 
 ### Rules 
 
